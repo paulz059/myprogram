@@ -1,0 +1,4 @@
+D:/IT/EXPc++/C_HOMEWORK/appdesgin/QT/T3/build/CMakeFiles/T3.dir
+D:/IT/EXPc++/C_HOMEWORK/appdesgin/QT/T3/build/CMakeFiles/edit_cache.dir
+D:/IT/EXPc++/C_HOMEWORK/appdesgin/QT/T3/build/CMakeFiles/rebuild_cache.dir
+D:/IT/EXPc++/C_HOMEWORK/appdesgin/QT/T3/build/CMakeFiles/T3_autogen.dir

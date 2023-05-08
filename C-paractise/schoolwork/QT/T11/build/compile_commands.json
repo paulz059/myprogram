@@ -1,0 +1,17 @@
+[
+{
+  "directory": "D:/IT/EXPc++/C_HOMEWORK/appdesgin/QT/T11/build",
+  "command": "D:\\MinGW\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/T11.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\T11.dir\\T11_autogen\\mocs_compilation.cpp.obj -c D:\\IT\\EXPc++\\C_HOMEWORK\\appdesgin\\QT\\T11\\build\\T11_autogen\\mocs_compilation.cpp",
+  "file": "D:/IT/EXPc++/C_HOMEWORK/appdesgin/QT/T11/build/T11_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "D:/IT/EXPc++/C_HOMEWORK/appdesgin/QT/T11/build",
+  "command": "D:\\MinGW\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/T11.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\T11.dir\\main.cpp.obj -c D:\\IT\\EXPc++\\C_HOMEWORK\\appdesgin\\QT\\T11\\main.cpp",
+  "file": "D:/IT/EXPc++/C_HOMEWORK/appdesgin/QT/T11/main.cpp"
+},
+{
+  "directory": "D:/IT/EXPc++/C_HOMEWORK/appdesgin/QT/T11/build",
+  "command": "D:\\MinGW\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/T11.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\T11.dir\\mainwindow.cpp.obj -c D:\\IT\\EXPc++\\C_HOMEWORK\\appdesgin\\QT\\T11\\mainwindow.cpp",
+  "file": "D:/IT/EXPc++/C_HOMEWORK/appdesgin/QT/T11/mainwindow.cpp"
+}
+]

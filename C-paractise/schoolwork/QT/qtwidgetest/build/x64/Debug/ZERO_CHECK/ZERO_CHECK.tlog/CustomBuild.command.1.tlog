@@ -1,0 +1,10 @@
+^D:\IT\EXPC++\C_HOMEWORK\APPDESGIN\QT\QTWIDGETEST\BUILD\CMAKEFILES\7703D53CF7EF3A61F9A23BC08319C49D\GENERATE.STAMP.RULE
+setlocal
+"D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/IT/EXPc++/C_HOMEWORK/appdesgin/QT/qtwidgetest -BD:/IT/EXPc++/C_HOMEWORK/appdesgin/QT/qtwidgetest/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/IT/EXPc++/C_HOMEWORK/appdesgin/QT/qtwidgetest/build/qtwidgetest.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

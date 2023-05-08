@@ -1,0 +1,3 @@
+D:/IT/EXPc++/C_HOMEWORK/appdesgin/QT/qtwidgetest/build/CMakeFiles/qtwidgetest.dir
+D:/IT/EXPc++/C_HOMEWORK/appdesgin/QT/qtwidgetest/build/CMakeFiles/ALL_BUILD.dir
+D:/IT/EXPc++/C_HOMEWORK/appdesgin/QT/qtwidgetest/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,22 @@
+^D:\IT\EXPC++\C_HOMEWORK\APPDESGIN\QT\QTWIDGETEST\BUILD\CMAKEFILES\1AB8933923CA2F93BA4538CDAFBC1EF4\AUTOUIC_(CONFIG).STAMP.RULE
+setlocal
+cd D:\IT\EXPc++\C_HOMEWORK\appdesgin\QT\qtwidgetest\build
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\IT\EXPC++\C_HOMEWORK\APPDESGIN\QT\QTWIDGETEST\CMAKELISTS.TXT
+setlocal
+"D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/IT/EXPc++/C_HOMEWORK/appdesgin/QT/qtwidgetest -BD:/IT/EXPc++/C_HOMEWORK/appdesgin/QT/qtwidgetest/build --check-stamp-file D:/IT/EXPc++/C_HOMEWORK/appdesgin/QT/qtwidgetest/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
